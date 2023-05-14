@@ -1,0 +1,2 @@
+PROBLEM 3: STATISTICS 
+CallCounts.csv contains incoming call counts in hourly buckets over a year for a call center. Generate and evaluate a set of hypotheses to check if any seasonal factors are significant  determinants of the call counts. Based on this analysis, fit a named statistical distribution to  the data (e.g. Gaussian, Beta etc.). Clearly state any assumptions made and justify your  choice of distribution logically. 
